@@ -1,6 +1,6 @@
 <template lang="html">
   <div class="">
-      goods
+    goods
   </div>
 </template>
 
@@ -11,4 +11,5 @@ export default {
 </script>
 
 <style lang="scss">
+
 </style>

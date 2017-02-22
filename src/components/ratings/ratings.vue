@@ -1,14 +1,16 @@
 <template lang="html">
-  <div class="">
-      ratings
-  </div>
+	<div class="">
+		ratings
+	</div>
 </template>
 
 <script>
 export default {
-    name: 'ratings'
+	name: 'ratings'
 }
 </script>
 
 <style lang="css">
+
+
 </style>
