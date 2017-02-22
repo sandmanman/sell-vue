@@ -1,5 +1,7 @@
 # sell
 
+[外卖APP，慕课网跟着学](http://coding.imooc.com/learn/list/74.html)
+
 > A Vue.js project
 
 ## Build Setup
